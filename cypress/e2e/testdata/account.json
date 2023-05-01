@@ -1,0 +1,13 @@
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "homePhone": "2015550123",
+    "primaryEmail": "a@a.com",
+    "address1": "123 Grove Street",
+    "city": "Los Angeles",
+    "state": "California",
+    "zipCode": "90001",
+    "addressType": "Home",
+    "organization": "Enigma Fire & Casualty",
+    "producerCode": "Standard Code Internal Producer Code - 1"
+}
