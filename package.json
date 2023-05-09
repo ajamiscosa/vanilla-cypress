@@ -3,5 +3,8 @@
     "@testing-library/cypress": "^9.0.0",
     "cypress": "^12.11.0",
     "cypress-plugin-tab": "^1.0.5"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.6"
   }
 }
