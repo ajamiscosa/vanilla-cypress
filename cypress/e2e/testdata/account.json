@@ -9,5 +9,16 @@
     "zipCode": "90001",
     "addressType": "Home",
     "organization": "Enigma Fire & Casualty",
-    "producerCode": "Standard Code Internal Producer Code - 1"
+    "producerCode": "Standard Code Internal Producer Code - 1",
+    "dateOfBirth": "01/01/1970",
+    "licenseNo": "0123456789",
+    "licenseState": "California",
+    "yearFirstLicensed": "2000",
+    "vehicle": [
+        {
+            "vin": "1N4BA41E74C903392",
+            "licenseState": "California",
+            "costNew": "25000"
+        }
+    ]
 }
